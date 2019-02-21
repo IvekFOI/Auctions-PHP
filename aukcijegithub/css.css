@@ -1,0 +1,119 @@
+head {
+	margin-left:400px;
+}
+
+A.class1 {color:white; text-align:right; font-size:18px;}
+A.class1:link  {text-decoration: none; color: white; text-align:right;font-size:18px;}
+A.class1:visited {text-decoration: none; color: white; text-align:right;font-size:18px;}
+A.class1:hover {text-decoration: underline; color: white; text-align:right;font-size:18px;}
+A.class1:active {text-decoration: none; color: red; text-align:right;font-size:18px;}
+
+A.class2 {text-decoration:none; color:white; padding-right:7px; font-size:18px;}
+A.class2:link  {text-decoration: none; color: white; padding-right:3px; font-size:18px;}
+
+.prijava {
+	text-align:right;
+}
+
+
+.button {
+	display: block;
+    width: 115px;
+    height: 45px;
+    background: #4E9CAF;
+    padding: 5px;
+	margin:5px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+	float:left;
+	font-size:16px;
+}
+ 
+ .button1 {
+	display: block;
+    height: 35px;
+    background: #4c0072;
+    padding: 5px;
+	margin:5px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+	margin-left:130px;
+	margin-right:-120px;
+	float:left;
+	font-size:16px;
+	width:40%;
+	position:center;
+}
+ 
+tr th, tr td{
+  background: #3B3B3B;
+  color: #FFF;
+  padding: 7px 4px;
+  text-align: center;
+  border:2px solid #3B3B3B;
+  border-radius: 5px;
+  }
+  
+tr td{
+  background:none;
+  color: #47433F;
+  }
+ 
+td.bezcelija{
+    border-color: transparent;
+	border-top-style: hidden;
+    border-bottom-style: hidden;
+    border-right-style: hidden;
+}
+ 
+table {
+	border-radius: 25px;
+	border-collapse:collapse;
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+}
+
+h1 {
+	text-align:center;
+}
+
+
+a {
+	text-decoration:none;
+	color:orange;
+	padding:10px;
+}
+a:hover {text-decoration: underline;}
+
+
+body {	
+  background: #ededed;
+  font-family: Palatino, sans-serif;
+  height:100%;
+  margin:auto;
+  text-align:left;
+  font-size:20px;
+}
+
+header {
+  background:#ff9e30;
+  padding:5px;
+  height:170px;
+  text-align:right;
+  border:5pt solid black;
+}
+
+.stranice{
+	background-color:black;
+	text-align:center;
+}
+
+.meni{
+	background-color:black;
+	text-align:center;
+}
